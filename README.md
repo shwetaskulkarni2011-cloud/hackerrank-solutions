@@ -4,6 +4,7 @@
  - 31-12-2025 :Easy    : Check for Non-Identical String Rotation
  - 01-01-2026 :Easy    : Day of Programmer
  - 02-01-2026 :Easy    : Target Index Search
+ - 03-01-2026 :V.Easy : 30-data-types
  
  
  
