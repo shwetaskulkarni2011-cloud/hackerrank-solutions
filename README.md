@@ -14,4 +14,7 @@
  
  #LeetCode Solutions
  - 02-01-2026 :Easy    : 961 N-Repeated Element in Size 2N Array
- - 05-01-2026 : Medium : 1975 maximum-matrix-sum
+ - 05-01-2026 :Medium  : 1975 maximum-matrix-sum
+ - 06-01-2026 :Medium  : 1161. Maximum Level Sum of a Binary Tree
+ - 12-01-2026 :Easy    : 1266. Minimum Time Visiting All Points 
+ - 13-01-2026 :Medium  : 3453. Separate Squares I
